@@ -1,2 +1,2 @@
 # DanZuniga.github.io
-cl.ecommerce.online/true=v1
+cl.ecommerce.online/true=v2
